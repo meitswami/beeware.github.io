@@ -1,4 +1,4 @@
-_model: home
+voiceassistant_model: home
 ---
 _template: home.html
 ---
